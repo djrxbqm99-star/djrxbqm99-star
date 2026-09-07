@@ -9,24 +9,29 @@
 
 ## 🙋 About Me
 
-- 🖥️ **Java 백엔드 국비지원 부트캠프** 과정 중 (Java 중심 커리큘럼)
-- 🔧 이전 경력: 건설회사 전산직 — 서버 / PC / NAS / 네트워크 유지보수 (1년 3개월)
-- 🎯 목표: **Spring 기반 백엔드 개발자**로 전환
-- 🤝 팀 프로젝트를 통해 협업 / Git 워크플로우 / 실전 트러블슈팅 경험을 쌓는 중입니다
+- 💻 **Java / Spring 기반 백엔드 개발자**를 목표로 준비하고 있습니다.
+- 🔧 건설회사 전산팀에서 **1년 3개월간 서버 / PC / NAS / 네트워크 유지보수** 업무를 경험했습니다.
+- 🧩 전산 유지보수 경험을 바탕으로 문제를 분석하고 해결하는 개발자를 지향합니다.
+- 🤝 팀 프로젝트를 통해 협업, Git 워크플로우 및 실전 트러블슈팅 경험을 쌓았습니다.
 
 <br>
 
 ## 🛠️ Tech Stack
 
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 </p>
+
+### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
+
+### Collaboration
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -36,20 +41,58 @@
 
 ## 💼 Projects
 
-### 🎟️ [3rd_team3_stageon](https://github.com/djrxbqm99-star/3rd_team3_stageon)
-**실시간 티켓팅 서비스** · Spring Boot · Redis · MySQL
+### 🎟️ [StageOn](https://github.com/djrxbqm99-star/3rd_team3_stageon)
 
-대규모 트래픽 상황에서의 동시성 제어와 Redis 기반 대기열 처리가 핵심인 팀 프로젝트입니다.
-- **관리자(Admin) 기능 전체** 담당
-- 공연 등록 · 배너 관리 · 좌석 관리 · 공연 정보 수정 기능 구현
+**실시간 티켓팅 서비스**  
+`Spring Boot` `Redis` `MySQL`
+
+📅 **프로젝트 기간:** 2026.07.20 ~ 2026.08.30  
+👥 **팀 프로젝트**  
+💻 **담당:** 관리자(Admin) 페이지 전반
+
+대규모 트래픽 상황을 고려하여 동시성 제어와 Redis 기반 대기열 처리를 적용한 티켓팅 서비스입니다.
+
+**주요 구현 기능**
+- 공연 등록 및 공연 정보 수정
+- 공연장 및 좌석 관리
+- 공연 일정 및 회차 관리
+- 배너 관리
+- 주문 및 환불 관리
+- 관리자 페이지 기능 구현 및 유지보수
 
 <br>
 
 ### 🛒 [K-Market](https://github.com/djrxbqm99-star/K-Market)
-**쇼핑몰 팀 프로젝트** · Spring Boot · Thymeleaf
 
-- **회원 / 마이페이지** 파트 담당
-- 회원가입, 로그인, 아이디·비밀번호 찾기, 마이페이지(주문/포인트/쿠폰/리뷰/문의 등) 구현
+**온라인 쇼핑몰 서비스**  
+`Spring Boot` `Thymeleaf` `MySQL`
+
+📅 **프로젝트 기간:** 2026.06.12 ~ 2026.07.12  
+👥 **팀 프로젝트**  
+💻 **담당:** 회원 / 마이페이지
+
+회원 관리와 상품 구매를 중심으로 구성된 온라인 쇼핑몰 팀 프로젝트입니다.
+
+**주요 구현 기능**
+- 회원가입 및 로그인
+- 아이디 / 비밀번호 찾기
+- 회원정보 관리
+- 주문 내역 조회
+- 포인트 및 쿠폰 관리
+- 리뷰 및 문의 기능
+- 마이페이지 기능 구현
+
+<br>
+
+## 📚 Education
+
+**Java / Spring 기반 백엔드 개발 과정**  
+국비지원 교육 · 5개월
+
+- Java 기반 프로그래밍
+- Spring Boot 기반 웹 애플리케이션 개발
+- MySQL 데이터베이스 활용
+- 팀 프로젝트 및 Git 협업 경험
 
 <br>
 
